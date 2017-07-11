@@ -29,4 +29,4 @@ Supported Systems : AWS (CPU, [GPU](doc/docker_for_aws.md)), Linux (CPU), Mac (C
 |                                     |                                      |
 
 
-##### [References](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
+##### [References](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) Udacity CarND Startert kit
